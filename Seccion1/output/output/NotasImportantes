@@ -1,0 +1,32 @@
+RATIONAL OPERATORS
+
+> Greater then
+< Less than 
+>= Greater than or equal to
+<= Less than or equal to
+== Equal to
+!= Not equal to
+
+ COSAS DE LOS BOOLEANOS
+
+cout << boolalpha;   / Aparece true o false
+
+Arithmetic Operators 
+
++ addition
+- subtraction
+* multiplication
+/ division
+% modulus (remainder)
+++ increment
+-- decrement
+
+    Compound Assignment Operators
++= add and assign
+-= subtract and assign
+*= multiply and assign
+/= Divide and assign
+%= modulus and assign
+
+#include <iomanip>
+cout << fixed << setprecision(2);  //precision con decimales al meter numeros al cin
